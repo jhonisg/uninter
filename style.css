@@ -1,0 +1,21 @@
+.d-flex {
+    display: flex;
+}
+.place-center {
+    place-content: center;
+}
+.justify-content-center {
+    justify-content: center;
+}
+.text-align-center {
+    text-align: center;
+}
+.w-50 {
+    width: 50%;
+}
+.text-bold {
+    font-weight: bold;
+}
+.px-30 {
+    padding: 20% 0;
+}
